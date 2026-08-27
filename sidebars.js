@@ -6,8 +6,8 @@ const sidebars = {
       label: 'Theme Module',
       items: [
         'theme-module/accessing-theme-module',
-        'theme-module/color-and-typography',
         'theme-module/creating-new-theme',
+        'theme-module/color-and-typography',
         {
           type: 'category',
           label: 'Colors',
