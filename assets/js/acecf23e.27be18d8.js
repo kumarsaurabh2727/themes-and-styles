@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkthemes_and_styles=self.webpackChunkthemes_and_styles||[]).push([["220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/themes-and-styles/blog","blogTitle":"Blog","authorsListPath":"/themes-and-styles/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthemes_and_styles=self.webpackChunkthemes_and_styles||[]).push([["4823"],{7176(e,s,t){t.r(s),t.d(s,{default:()=>d});var n=t(4848),a=t(6347);function d(){return(0,n.jsx)(a.rd,{to:"/themes-and-styles/docs/intro"})}}}]);
