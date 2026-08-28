@@ -12,7 +12,11 @@ const sidebars = {
           type: 'category',
           label: 'Colors',
           items: [
-            'theme-module/colors/introduction-to-colors',
+            'theme-module/colors/introduction-to-colors', 
+            'theme-module/colors/accessing-color-submodule',
+            'theme-module/colors/adding-color-to-category',
+            'theme-module/colors/adding-new-custom-color',
+            'theme-module/colors/info-panel',
           ],
         },
       ],
